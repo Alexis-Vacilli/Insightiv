@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Insightiv/static/css/main.7d10bf4c.css",
+    "main.js": "/Insightiv/static/js/main.542b513b.js",
+    "static/js/787.bdb8fccd.chunk.js": "/Insightiv/static/js/787.bdb8fccd.chunk.js",
+    "index.html": "/Insightiv/index.html",
+    "main.7d10bf4c.css.map": "/Insightiv/static/css/main.7d10bf4c.css.map",
+    "main.542b513b.js.map": "/Insightiv/static/js/main.542b513b.js.map",
+    "787.bdb8fccd.chunk.js.map": "/Insightiv/static/js/787.bdb8fccd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d10bf4c.css",
+    "static/js/main.542b513b.js"
+  ]
+}
